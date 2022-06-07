@@ -1,0 +1,43 @@
+[
+  { ... }
+  {
+    "id": "<unique-id>",
+    "shard_server": "7_2",
+    "session_id": "48a88774-e599-11ec-8fea-0242ac120002",
+    "created_at": "2022-06-01T08:05:00.000Z",
+    "user_id": "d9e4b8cc-b2b0-4ee8-955c-4511f63a7c22",
+    "data": { ... }
+  },
+  { ... },
+  {
+    "id": "<unique-id>",
+    "shard_server": "7_2",
+    "session_id": "e1c97d5f-e599-11ec-8fea-0242ac120002",
+    "created_at": "2022-06-01T18:31:00.000Z",
+    "user_id": "d9e4b8cc-b2b0-4ee8-955c-4511f63a7c22",
+    "data": { ... }
+  },
+  { ... }
+]
+
+[
+  { ... }
+  {
+    "id": "<unique-id>",
+    "shard_server": "7_3",
+    "session_id": "9fcd4526-beda-43ff-92ff-0242ac120003",
+    "created_at": "2022-06-01T11:46:00.000Z",
+    "user_id": "d9e4b8cc-b2b0-4ee8-955c-4511f63a7c22",
+    "data": { ... }
+  },
+  { ... },
+  {
+    "id": "<unique-id>",
+    "shard_server": "7_3",
+    "session_id": "9fcd4526-beda-43ff-92ff-0242ac120003",
+    "created_at": "2022-06-01T11:49:34.000Z",
+    "user_id": "d9e4b8cc-b2b0-4ee8-955c-4511f63a7c22",
+    "data": { ... }
+  },
+  { ... }
+]
