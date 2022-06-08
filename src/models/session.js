@@ -6,7 +6,7 @@ const schema = new mongoose.Schema(
       type: String,
       required: true,
     },
-    router_ip: {
+    router_address: {
       type: String,
       required: true,
     },
